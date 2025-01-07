@@ -1,3 +1,6 @@
+# kartana
+
+Este proyecto consiste en una API para gestionar reclamos ciudadanos, permitiendo a las personas visibilizar problemas para que sean atendidos por las autoridades.
 
 ### Pasos de instalacion
 
